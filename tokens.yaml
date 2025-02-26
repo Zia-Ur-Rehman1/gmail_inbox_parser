@@ -1,2 +1,2 @@
 ---
-default: '{"client_id":"646623477395-7gim0vs6vll4pndic2iusbjvkcsc0463.apps.googleusercontent.com","access_token":"ya29.a0AXeO80RfdwLvGTtOUN7dhDfphmWG3L6cjSVVA7_vYu5Q2HThDbwF8H7uz8Za-nh_MpeWgVxCIVh0mhvj5qMaI5NHIJWYEr1fSc_Ym38Oeuizi9XkbGsnXbDVwY8e1u1ORcqPqO7216clAG2h3df75iV_5Nbv8Cbv2xaKvtskawaCgYKAYMSARESFQHGX2Mi5ysWpxK37fHGycXRm9v3GQ0177","refresh_token":"1//09hFZde1q9qTdCgYIARAAGAkSNwF-L9Iry9fk-65VcMnKCodjbJnLlss_rtAVfaDFVqOqMrD6okkqKnPhmToFvw5-V5YAoPtMYls","scope":["https://www.googleapis.com/auth/gmail.readonly"],"expiration_time_millis":1740577594000}'
+default: '{"client_id":"","access_token":"","refresh_token":"","scope":["https://www.googleapis.com/auth/gmail.readonly"],"expiration_time_millis":1740577594000}'
